@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="board.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="board.hpp" open="0" top="0" tabpos="8">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="fallingbricks.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="11167" topLine="330" />
+	</File>
+	<File name="fallingbricks.hpp" open="1" top="1" tabpos="2">
+		<Cursor position="944" topLine="39" />
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="piece.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="15262" topLine="512" />
+	</File>
+	<File name="piece.hpp" open="0" top="0" tabpos="4">
+		<Cursor position="0" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
